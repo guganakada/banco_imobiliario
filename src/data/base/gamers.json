@@ -1,0 +1,35 @@
+{
+    "0": {
+        "nome": "Banco"
+    },
+    "1": {
+        "nome": "Jogador 1",
+        "saldo": "15000",
+        "status": "1" // 0 = falido ou 1 = jogando
+    },
+    "2": {
+        "nome": "Jogador 2",
+        "saldo": "15000",
+        "status": "1"
+    },
+    "3": {
+        "nome": "Jogador 3",
+        "saldo": "15000",
+        "status": "1"
+    },
+    "4": {
+        "nome": "Jogador 4",
+        "saldo": "15000",
+        "status": "1"
+    },
+    "5": {
+        "nome": "Jogador 5",
+        "saldo": "15000",
+        "status": "1"
+    },
+    "6": {
+        "nome": "Jogador 6",
+        "saldo": "15000",
+        "status": "1"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "1": {
+        "Jogador 1": "0",
+        "Jogador 2": "1",
+        "Transacao": "P", // P = Pagar ou R = Receber
+        "Tipo": "Aluguel", // Comprar, Vender, Aluguel, Sorte ou Revés (Notícia), Ações, Prisão, Início
+        "Valor": "0"
+    }
+}
